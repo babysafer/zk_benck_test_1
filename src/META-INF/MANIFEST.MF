@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.16.jar slf4j-api-1.6.1.jar netty-3.10.5.Final.ja
+ r slf4j-log4j12-1.6.1.jar apiguardian-api-1.0.0.jar zookeeper-3.4.10.
+ jar junit-platform-commons-1.0.0.jar jline-0.9.94.jar opentest4j-1.0.
+ 0.jar junit-jupiter-api-5.0.0.jar
+Main-Class: TestReadZnode
+
