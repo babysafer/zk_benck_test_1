@@ -10,6 +10,7 @@ import java.io.IOException;
 /**
  * 监听args[0]地址的zk， znode路径为args[1]
  * 监听的事件是  该路径znode的子节点的变化
+ * d
  */
 public class TestChildrenWatch implements Watcher {
     private static ZooKeeper zk;
